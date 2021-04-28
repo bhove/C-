@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1576685113 source:h:\cpp\ch7\ch7crowdcblock\main.cpp
+	<iostream>
+	<windows.h>
+	<iomanip>
+
+1576846394 source:\\acsd.local\dfs\home2-2021$\bandersen\cpp\ch7\ch7crowdcblock\main.cpp
+	<iostream>
+	<windows.h>
+	<iomanip>
+

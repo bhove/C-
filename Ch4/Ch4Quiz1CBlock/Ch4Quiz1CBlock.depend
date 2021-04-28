@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1571237535 source:h:\cpp\ch4\ch4quiz1cblock\main.cpp
+	<iostream>
+	<iomanip>
+

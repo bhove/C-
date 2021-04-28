@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1575557161 source:h:\cpp\ch6\ch6randnumsv2cblock\main.cpp
+	<iostream>
+	<iomanip>
+	<time.h>
+	<stdlib.h>
+
+1575557161 source:\\acsd.local\dfs\home2-2021$\bandersen\cpp\ch6\ch6randnumsv2cblock\main.cpp
+	<iostream>
+	<iomanip>
+	<time.h>
+	<stdlib.h>
+

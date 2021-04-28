@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1575389308 source:h:\cpp\ch6\ch6randnumscblock\main.cpp
+	<iostream>
+	<iomanip>
+	<time.h>
+	<stdlib.h>
+

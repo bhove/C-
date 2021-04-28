@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1568386785 source:h:\cpp\ch3\ch3ex1cblock\main.cpp
+	<iostream>
+
+1568644168 source:\\acsd.local\dfs\home2-2021$\bandersen\cpp\ch3\ch3ex1cblock\main.cpp
+	<iostream>
+	<iomanip>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1569422862 source:h:\cpp\ch3\ch3ex11bcblock\main.cpp
+	<iostream>
+	<iomanip>
+

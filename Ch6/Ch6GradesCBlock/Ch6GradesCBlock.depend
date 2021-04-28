@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1575827803 source:\\acsd.local\dfs\home2-2021$\bandersen\cpp\ch6\ch6gradescblock\main.cpp
+	<iostream>
+	<iomanip>
+

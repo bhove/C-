@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1573656571 source:h:\cpp\ch5\ch5isotrapezoidcblock\main.cpp
+	<iostream>
+	<iomanip>
+	<math.h>
+	<cmath>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1574433758 source:h:\cpp\ch5\ch5mathcblock\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
+1574433758 source:\\acsd.local\dfs\home2-2021$\bandersen\cpp\ch5\ch5mathcblock\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+

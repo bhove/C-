@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1569336366 source:h:\cpp\misc\snekcblock\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<windows.h>
+	<vector>
+	<conio.h>
+
+1569336366 source:\\acsd.local\dfs\home2-2021$\bandersen\cpp\misc\snekcblock\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<windows.h>
+	<vector>
+	<conio.h>
+

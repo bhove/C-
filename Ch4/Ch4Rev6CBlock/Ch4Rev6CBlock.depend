@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1569596054 source:h:\cpp\ch4\ch4rev6cblock\main.cpp
+	<iostream>
+	<iomanip>
+

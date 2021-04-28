@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1572533605 source:\\acsd.local\dfs\home2-2021$\bandersen\cpp\ch4\ch4ex26cblock\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+

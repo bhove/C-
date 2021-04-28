@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1578580909 source:\\acsd.local\dfs\home2-2021$\bandersen\cpp\ch7\gradebookcblock\main.cpp
+	<iostream>
+	<iomanip>
+	<windows.h>
+	<fstream>
+
+1578063190 source:h:\cpp\ch7\gradebookcblock\main.cpp
+	<iostream>
+	<iomanip>
+	<windows.h>
+

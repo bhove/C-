@@ -1,0 +1,64 @@
+/*
+*	Can you describe what each line of code does and why it's needed?
+    Yes.
+*	What is the purpose of a structure?
+    A structure holds multiple types of variables and data.
+*	Can you readily write the code to define any structure with multiple pieces of data?
+    Yes
+*	What is the purpose of an array?
+An array is a set of multiple values of the same variable.
+*	How is an array of size 15 indexed?
+    0-14
+*	What is the code needed to find a student by name in roster?
+    string name;
+    int i;
+
+        cout << endl;
+        cout << "Enter the student's name: ";
+        cin.ignore();
+        getline(cin, name);
+        cout << endl;
+
+    i = 0;
+        while (i < numstus && roster[i].name != name) {
+            i++;
+        }
+        if (i < numstus)
+            cout << "Found!" << endl;
+        else
+            cout << "You're a failure!" << endl;
+*	What is the code needed to sort roster by gpa?
+    int i, j;
+    student temp;
+
+        for (i = 0; i < numstus - 1; i++)
+            for (j = i + 1; j < numstus; j++)
+                if (roster[i].gpa > roster[j].gpa) {
+                    temp = roster[i];
+                    roster[i] = roster[j];
+                    roster[j] = temp;
+                }
+    printall(roster, numstus);
+*	What is the code needed to convert a string to an int? a float?
+    getline(infile, s, '\n');
+    roster[i].gpa = atof (s.c_str());
+*	Why is all data read from a data file a string?
+    The program reads each individual line as a string as it is stored in text.
+*	To delete a student from roster, can we simply erase the values in that position of the array and put default values there?
+    No, you must also move down all existing students above the removed
+*	Why do we need both SIZE and numstus?
+    SIZE is a constant for the maximum # of students, numstus is the actual number of students.
+*	How is roster returned from any function with updated data since we don't say return roster???
+    As roster is defined outside and before any functions, all functions know it exists.
+*	What happens if I return numstus, but don't "catch" it in main?
+    Numstus then does not change in main.
+*	When finding a highest or lowest value in an array we typically set the high / low value to the first value in the array to start. Why did we not do that for highestgpainyear in gradebook?
+    We do this as GPA is a calculation based on the 5 grades.
+*	Can you readily write the code to find the high / low value in an int array or array of structures?
+    Yes.
+*	Can any function call any other function or do they all have to be called by main only?
+    No, any function can call other functions as long as they are defined before them.
+*	What is a switch statement used instead of? * What's the purpose of a break statement in case statements?
+    An if/else if/else chain. Break tells the computer there are no more lines to read.
+
+*/

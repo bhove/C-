@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1571236414 source:h:\cpp\ch4\ch4rttrianglecblock\main.cpp
+	<iostream>
+	<iomanip>
+	<math.h>
+
